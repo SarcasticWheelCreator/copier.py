@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<files>
+<file id="0">
+<filename>МОЙ тестовый файл.zip</filename>
+<oldpath>D://</oldpath>
+<newpath>C://Users//Emilio</newpath>
+</file>
+<file id="1">
+<filename>image.png</filename>
+<oldpath>D://</oldpath>
+<newpath>D://new_path</newpath>
+</file>
+<file id="2">
+<filename>testfile.log</filename>
+<oldpath>/tmp/</oldpath>
+<newpath>//home/username/</newpath>
+</file>
+<file id="3">
+<filename>text.txt</filename>
+<oldpath>D://</oldpath>
+<newpath>C://</newpath>
+</file>
+</files>
