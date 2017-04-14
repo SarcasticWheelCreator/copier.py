@@ -1,6 +1,7 @@
 # copier.py
 
 This script copies files in accordance with xml-configuration file.
+Copier.py requiers python3. 
 Xml - file must be in Utf-8 encoding.
 
 ## First implementation:
